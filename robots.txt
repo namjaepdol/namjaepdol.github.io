@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cosmic-hippopotamus.cloudvent.net/sitemap.xml
